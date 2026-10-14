@@ -1,6 +1,6 @@
 # dr. z skill
 
-Claude skill for orchestrated, structured learning: intake, grounding in real course material, topic mapping, a teaching loop, graded practice, craft coaching, study artifacts, and final-stretch review.
+claude skill for orchestrated, structured learning: intake, grounding in real course material, topic mapping, a teaching loop, graded practice, craft coaching, study artifacts, and final-stretch review.
 
 ## install
 
